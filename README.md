@@ -2,7 +2,7 @@
 - 👀 I’m interested in Android and Web Development and Artificial intelligence. I am also an enthusiast of Cybersecurity
 - 🌱 I’m a Bachelor of Science in Information Technology graduate at Dedan Kimathi Univesity of Technology, Kenya.
 - 💞️ I’m looking to collaborate on all matters involving tech.
-- 📫 How to reach me -> wawerufndegwa@gmail.com
+
 
 
 <!---
