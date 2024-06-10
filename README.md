@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @S-F-Waweru
 - 👀 I’m interested in Android and Web Development and Artificial intelligence. I am also an enthusiast of Cybersecurity
-- 🌱 I’m Bachelor of Science in Information Technology graduand at Dedan Kimathi Univesity of Technology, Kenya.
-- 💞️ I’m looking to collaborate on all matters involved in Information Technology
+- 🌱 I’m a Bachelor of Science in Information Technology graduate at Dedan Kimathi Univesity of Technology, Kenya.
+- 💞️ I’m looking to collaborate on all matters involving tech.
 - 📫 How to reach me -> wawerufndegwa@gmail.com
-- 😄 Pronouns: He
+
 
 <!---
 S-F-Waweru/S-F-Waweru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
