@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @S-F-Waweru
 - 👀 I’m interested in Android and Web Development and Artificial intelligence. I am also an enthusiast of Cybersecurity
-- 🌱 I’m currently pursuing  a Bachelor of Science in Information Technology at Dedan Kimathi Univesity of Technology, Kenya.
-- 💞️ I’m looking to collaborate on all matters involved in Information Technolgy
+- 🌱 I’m Bachelor of Science in Information Technology graduand at Dedan Kimathi Univesity of Technology, Kenya.
+- 💞️ I’m looking to collaborate on all matters involved in Information Technology
 - 📫 How to reach me -> wawerufndegwa@gmail.com
 - 😄 Pronouns: He
 
