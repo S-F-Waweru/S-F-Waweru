@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @S-F-Waweru!<br>🚀 Full-Stack Developer passionate about Web & Android Development, AI, and Cybersecurity.<br>💻 Skilled Angular, Node.js,  Laravel, and more.<br>🔐 Dedicated to building secure, scalable applications and exploring AI-driven solutions.<br>💡 Always open to collaborations and open-source contributions—let’s create something amazing!
+👋 Hi, I’m @S-F-Waweru!<br>🚀 Full-Stack Developer passionate about Web Develeopment,  AI, and Cybersecurity.<br>💻 Skilled Angular, Node.js,  NestJs, and more.<br>🔐 Dedicated to building secure, scalable applications and exploring AI-driven solutions.<br>💡 Always open to collaborations and open-source contributions—let’s create something amazing!
 
 
 ## 🌐 Socials:
