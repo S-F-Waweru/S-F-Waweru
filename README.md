@@ -17,8 +17,8 @@ I'm a Full-Stack Engineer based in **Nairobi, Kenya**, building production-grade
 
 ```ts
 const samuel = {
-  stack:    ["Angular", "NestJS", "Node.js", "TypeScript", "MySQL"],
-  interests: ["AI Integration", "Cybersecurity", "System Design"],
+  stack:    ["Angular", ".Net10", "AI Intergration","NestJS", "Node.js", "TypeScript", "MySQL"],
+  interests: ["AI Agentic intergration", "System Design"],
   currentProject: "z-cms — a custom content management system",
   openTo:   ["Collaborations", "Open Source", "Freelance"],
 };
